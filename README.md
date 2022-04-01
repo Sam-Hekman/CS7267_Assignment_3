@@ -9,3 +9,5 @@ Assignment_3_eval_1 is the evaluation of the base model
 Assignment_3_eval_2 is the Experiment 1 with evaulation'
 
 Assignment_3_classification is the classification of random unseen articles recently webscraped
+
+Using_Lemmatization is the same as eval_2, but using lemmatization for comparison. The results were the same levels of precision and recall.
